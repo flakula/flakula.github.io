@@ -13,7 +13,7 @@ Have a nice day.
 * [twitter](https://twitter.com/flakula38)
 * [github](https://github.com/flakula)
 * [linkedin](https://www.linkedin.com/in/jalvarez94/)
-* [gmail](maito:j.alvarez9438@gmail.com)
+* [gmail](https://maito:j.alvarez9438@gmail.com)
 * [telegram](https://t.me/flakula)
 * [stackoverflow](https://stackoverflow.com/users/15963100/flakula)
 <!-- * [whatsapp](https://api.whatsapp.com/send?phone=+5358176090) -->
