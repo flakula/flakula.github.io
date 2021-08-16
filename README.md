@@ -13,10 +13,7 @@ Have a nice day.
 * [twitter](https://twitter.com/flakula38)
 * [github](https://github.com/flakula)
 * [linkedin](https://www.linkedin.com/in/jalvarez94/)
-* [gmail](https://maito:j.alvarez9438@gmail.com)
-* [gmail2](maito:j.alvarez9438@gmail.com)
-* <a href="maito:j.alvarez9438@gmail.com">gmail3</a>
-* [gmail4](j.alvarez9438@gmail.com)
+* [gmail2](mailto:j.alvarez9438@gmail.com)
 * [telegram](https://t.me/flakula)
 * [stackoverflow](https://stackoverflow.com/users/15963100/flakula)
 <!-- * [whatsapp](https://api.whatsapp.com/send?phone=+5358176090) -->
