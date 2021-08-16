@@ -2,7 +2,7 @@
 
 My name is Jose Luis Alvarez. I am a programmer.
 
-This is my github page. Don't worry if it's a bit empty for now, good things are coming soon.
+[This](https://flakula.github.io/portfolio/) is my github page. Don't worry if it's a bit empty for now, good things are coming soon.
 
 You can contact me in any of the links that follow
 
@@ -13,7 +13,7 @@ Have a nice day.
 * [twitter](https://twitter.com/flakula38)
 * [github](https://github.com/flakula)
 * [linkedin](https://www.linkedin.com/in/jalvarez94/)
-* [gmail2](mailto:j.alvarez9438@gmail.com)
+* [gmail](mailto:j.alvarez9438@gmail.com)
 * [telegram](https://t.me/flakula)
 * [stackoverflow](https://stackoverflow.com/users/15963100/flakula)
 <!-- * [whatsapp](https://api.whatsapp.com/send?phone=+5358176090) -->
