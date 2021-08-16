@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Hello there
 
-You can use the [editor on GitHub](https://github.com/flakula/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Jose Luis Alvarez. I am a programmer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my github page. Don't worry if it's a bit empty for now, good things are coming soon.
 
-### Markdown
+You can contact me in any of the links that follow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Have a nice day.
 
-```markdown
-Syntax highlighted code block
+## Links
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flakula/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [twitter](https://twitter.com/flakula38)
+* [github](https://github.com/flakula)
+* [linkedin](https://www.linkedin.com/in/jalvarez94/)
+* [gmail](maito:j.alvarez9438@gmail.com)
+* [telegram](https://t.me/flakula)
+* [stackoverflow](https://stackoverflow.com/users/15963100/flakula)
+<!-- * [whatsapp](https://api.whatsapp.com/send?phone=+5358176090) -->
+<!-- * [reddit](https://www.reddit.com/user/j0s3lu1s38) -->
+<!-- * [hackerrank](https://github.com/flakula) -->
+<!-- * [duolingo](https://www.duolingo.com/profile/flakula) -->
+<!-- * [brilliant](https://brilliant.org/profile/jose-luis-05k6q2/) -->
+<!-- * [facebook](https://www.facebook.com/profile.php?id=100022906821792) -->
+<!-- * [curriculum vitae](https://github.com/flakula/AmIworthy/raw/main/cv.pdf) -->
