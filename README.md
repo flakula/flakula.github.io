@@ -2,7 +2,7 @@
 
 My name is Jose Luis Alvarez. I am a programmer.
 
-[This](https://flakula.github.io/flakula/) is my github page. Don't worry if it's a bit empty for now, good things are coming soon 😁.
+[This](https://flakula.github.io/) is my github page. Don't worry if it's a bit empty for now, good things are coming soon 😁.
 
 You can contact me in any of the links that follow
 
